@@ -1,6 +1,6 @@
 project:
   title: "I2C Master Controller"
-  author: "Kamales D"
+  author: "Akshaya Institute of Technology"
   discord: ""
   description: "Simple I2C Master transmitting one byte."
   language: "Verilog"
@@ -8,7 +8,7 @@ project:
 
   tiles: "1x1"
 
-  top_module: "tt_um_kamales_i2c_master"
+  top_module: "tt_um_i2c_master"
 
   source_files:
     - "project.v"
