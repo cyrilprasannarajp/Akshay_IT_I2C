@@ -25,7 +25,7 @@ module tb ();
 `endif
 
   // Instantiate your design
-  tt_um_kamales_i2c_master user_project (
+  tt_um_i2c_master user_project (
 
 `ifdef GL_TEST
       .VPWR(VPWR),
