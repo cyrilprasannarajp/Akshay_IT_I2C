@@ -1,6 +1,6 @@
 `default_nettype none
 
-module tt_um_kamales_i2c_master (
+module tt_um_i2c_master (
     input  wire [7:0] ui_in,
     output wire [7:0] uo_out,
     input  wire [7:0] uio_in,
